@@ -1,4 +1,4 @@
-# Java E-Notes Web Project
+# 📝 Java E-Notes Web Project
 
 ## Overview
 The Java E-Notes Web Project is a simple yet effective web application for managing and organizing electronic notes. Built using Java, JSP (JavaServer Pages), and Servlet technologies, this project provides a user-friendly interface for creating, editing, and deleting notes.
@@ -21,7 +21,7 @@ The Java E-Notes Web Project is a simple yet effective web application for manag
 - Apache Tomcat
 - MySQL Database
 
-### Installation
+### ⬇️ Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/java-e-notes.git

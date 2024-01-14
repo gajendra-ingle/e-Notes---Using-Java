@@ -1,0 +1,7 @@
+Deployment Descriptor: eNotes/
+JAX-WS Web Services/
+Java Resources/
+build/
+.classpath
+.settings
+.project
